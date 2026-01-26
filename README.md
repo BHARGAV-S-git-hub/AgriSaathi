@@ -83,7 +83,7 @@ AI is used as a decision-support tool, not as a replacement for agricultural exp
 
 Frontend: React, TypeScript, Tailwind CSS
 
-Backend: Supabase (Auth, Database, Storage)
+Backend: Supabase (Database, Storage)
 
 AI: GPT-based chatbot with RAG
 
