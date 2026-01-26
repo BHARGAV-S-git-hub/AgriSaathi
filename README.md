@@ -20,7 +20,10 @@ Beginners looking to earn through small-scale agriculture
 
 🤖 Key Features
 
-AI Chatbot
+AI Chatbot-
+
+Conversational farming assistance, 
+Context-aware and beginner-friendly guidance
 
 Farming & Sustainability Guides-
 
@@ -34,13 +37,13 @@ Terrace, balcony, and indoor farming,
 Mushroom and closed-shed farming models
 
 
-Government Schemes
+Government Schemes-
 
 PM-KISAN, subsidies, and crop insurance, 
 Simplified eligibility and application guidance
 
 
-Income Opportunities 
+Income Opportunities-
 
 High-demand crops, 
 Small-scale farming business ideas
