@@ -22,34 +22,26 @@ Beginners looking to earn through small-scale agriculture
 
 AI Chatbot
 
-Conversational farming assistance
-
-
 Farming & Sustainability Guides
-
 Beginner and seasonal farming tutorials
-
 Sustainable and low-investment practices
 
 
 Urban & Small-Scale Farming
 
 Terrace, balcony, and indoor farming
-
 Mushroom and closed-shed farming models
 
 
 Government Schemes
 
 PM-KISAN, subsidies, and crop insurance
-
 Simplified eligibility and application guidance
 
 
-Income Opportunities
+Income Opportunities 
 
 High-demand crops
-
 Small-scale farming business ideas
 
 
