@@ -22,8 +22,7 @@ Beginners looking to earn through small-scale agriculture
 
 AI Chatbot-
 
-Conversational farming assistance, 
-Context-aware and beginner-friendly guidance
+Conversational farming assistance 
 
 Farming & Sustainability Guides-
 
