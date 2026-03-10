@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink, CheckCircle } from 'lucide-react';
+import { ExternalLink } from 'lucide-react';
 
 const Schemes: React.FC = () => {
     return (

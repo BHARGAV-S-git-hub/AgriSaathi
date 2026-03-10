@@ -17,7 +17,9 @@ import { AuthProvider } from './context/AuthContext';
 function App() {
   return (
     <AuthProvider>
-      <Router>
+      {/* GitHub Pages serves the app under `/AgriSaathi/`, so
+          tell React Router to treat that as the base URL. */}
+      <Router basename="/AgriSaathi">
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
